@@ -5,3 +5,5 @@ console.log("master push 2");
 console.log("master push 3");
 
 console.log("master puh3");
+console.log("master puh7");
+console.log("master puh9");
