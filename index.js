@@ -5,3 +5,4 @@ console.log("second push");
 function name() {
   console.log("subhsm");
 }
+console.log("push from feature");
