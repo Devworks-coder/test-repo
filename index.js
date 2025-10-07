@@ -7,6 +7,3 @@ function name() {
 }
 console.log("push from feature");
 console.log("second push");
-function name() {
-  console.log("subhsm");
-}
